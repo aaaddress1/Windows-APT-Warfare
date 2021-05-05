@@ -1,7 +1,6 @@
 # Windows-APT-Warfare
 
-<img src="https://user-images.githubusercontent.com/8559056/117123435-9680fe80-adc9-11eb-9786-09bf2aab8c02.jpg" alt="drawing" style="width:200px; high: 200px;"/>
-
+<img src="https://user-images.githubusercontent.com/8559056/117123435-9680fe80-adc9-11eb-9786-09bf2aab8c02.jpg" alt="drawing" width="300" high="600"/>
 
 ## 《Windows APT Warfare：惡意程式前線戰術指南》
 這是一本看了一行 C 程式碼就有能力在腦裡計算完動靜態記憶體分佈、並在白板上手寫出可執行程式十六進位的內容的基礎書。
