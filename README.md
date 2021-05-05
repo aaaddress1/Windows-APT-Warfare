@@ -10,6 +10,7 @@
 
 ## 書籍資訊
 * 上市日期：2021/05/05
-* 天瓏：https://lihivip.com/61zfG
+* 天瓏書店：https://lihivip.com/61zfG
 * 博碩連結：https://lihivip.com/zel6Y
+* 博客來連結：https://lihivip.com/YAm40
 
